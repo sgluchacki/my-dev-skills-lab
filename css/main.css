@@ -41,6 +41,7 @@ ul {
     font-weight: 400;
     color: rgb(255,142,40);
     list-style-type: none;
+    padding-left: 0;
 }
 
 li {
